@@ -1,9 +1,14 @@
-# Project Owner: DHEERAJ KUMAR
-# Project Requirements:  Provided by assessment details
-# Project Idea: Assessment by RamSoft 
-# Project Summary: An attempt to create an application like JIRA and few of it's functionlaities into life.
+### Project Owner: DHEERAJ KUMAR
+### Project Requirements:  Provided by assessment details
+### Project Idea: Assessment by RamSoft 
+### Project Summary: An attempt to create an application like JIRA and few of it's functionlaities into life.
 
-# Getting Started with Create React App
+Screenshots:
+<img width="1440" alt="Screenshot 2023-11-05 at 9 43 49 PM" src="https://github.com/Dheeraj-kkde/dheerajRamsoft/assets/91405138/298ddb35-9e22-4e93-b9a2-34b182deffd2">
+<img width="1440" alt="Screenshot 2023-11-05 at 9 44 17 PM" src="https://github.com/Dheeraj-kkde/dheerajRamsoft/assets/91405138/01181c5b-4f63-4aa3-9344-b97eb39df907">
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
